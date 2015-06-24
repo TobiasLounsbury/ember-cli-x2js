@@ -1,0 +1,27 @@
+{
+  "name": "ember-cli-x2js",
+  "version": "0.1.0",
+  "description": "Include x2js into an ember-cli application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TobiasLounsbury/ember-cli-x2js.git"
+  },
+  "keywords": [
+    "ember-addon"
+  ],
+  "author": {
+    "name": "Tobias Lounsbury"
+  },
+  "license": "Apache License 2.0",
+  "dependencies": {
+  },
+  "bugs": {
+    "url": "https://github.com/TobiasLounsbury/ember-cli-x2js/issues"
+  },
+  "homepage": "https://github.com/TobiasLounsbury/ember-cli-x2js",
+  "devDependencies": {}
+}
